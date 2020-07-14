@@ -14,7 +14,7 @@ Happy coding! 😊
 <h3 align="center">Find me around the web 🌎</h3>
 
 <p align='center'>
-  <a href="https://dev.to/miguelbogota"><img height="30" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/dev.png" alt="Dev.to link to profile"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/migue_bogota/"><img height="30" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/instagram.jpg" alt="Instagram link to profile"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/miguelbogota"><img height="30" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/linkedin.png" alt="LinkedIn link to profile"></a>
+  <a target="_blank" href="https://dev.to/miguelbogota"><img height="30" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/dev.png" alt="Dev.to link to profile"></a>&nbsp;&nbsp;
+  <a target="_blank" href="https://www.instagram.com/migue_bogota/"><img height="30" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/instagram.jpg" alt="Instagram link to profile"></a>&nbsp;&nbsp;
+  <a target="_blank" href="https://www.linkedin.com/in/miguelbogota"><img height="30" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/linkedin.png" alt="LinkedIn link to profile"></a>
 </p>
