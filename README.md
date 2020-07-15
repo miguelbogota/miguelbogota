@@ -4,7 +4,7 @@ You have finally discovered my GitHub profile.
 
 <img height="150" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/cat2.gif" alt="gif with funny random cat say thank you.">
 
-I'm a software developer who is passionate about making open-source projects, creating technology people can enjoy and cats 🐱. Some technologies I enjoy working with include Angular, ReactJS, ASP.NET, C# and Rust.
+I'm a software developer who is passionate about making open-source projects, creating technology people can enjoy and cats 🐱. Some technologies I enjoy working with include Angular, React, ASP.NET, C# and Rust.
 
 Please feel free to clone projects and raise issues if you think something could be better.
 
