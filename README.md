@@ -1,6 +1,6 @@
 ## Hi there, I'm Miguel 👋🏼 💻
 
-You have finally discovered my Github profile.
+You have finally discovered my GitHub profile.
 
 <img height="150" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/cat2.gif" alt="gif with funny random cat say thank you.">
 
