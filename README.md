@@ -19,7 +19,7 @@ Happy coding! 😊
   </a>&nbsp;&nbsp;
 
   <a href="https://instagram.com/migue_bogota/">
-    <img height="30" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/instagram.png" alt="Instagram link to profile" />
+    <img height="30" src="https://raw.githubusercontent.com/miguelbogota/miguelbogota/master/images/instagram.jpg" alt="Instagram link to profile" />
   </a>&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/miguelbogota">
