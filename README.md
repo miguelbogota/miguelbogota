@@ -24,18 +24,18 @@ Outside of work, I enjoy experimenting with side projects, refining old ideas, l
 ### Find me around the web
 
 <p>
-  <a href="https://miguelbogota.dev" target="_blank" style="margin-right: 10px;">
+  <a href="https://miguelbogota.dev" target="_blank">
     <img height="26" src="images/web.svg" alt="Personal website" />
-  </a>
-  <a href="https://github.com/miguelbogota" target="_blank" style="margin-right: 10px;">
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/miguelbogota" target="_blank">
     <img height="26" src="images/github.svg" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/miguelbogota" target="_blank" style="margin-right: 10px;">
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/miguelbogota" target="_blank">
     <img height="26" src="images/linkedin.svg" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://instagram.com/migue_bogota" target="_blank">
     <img height="26" src="images/instagram.svg" alt="Instagram" />
-  </a>
+  </a>&nbsp;&nbsp;
 </p>
 
 Feel free to explore the repositories or reach out if something resonates.
